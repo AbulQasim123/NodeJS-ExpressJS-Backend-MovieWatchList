@@ -62,20 +62,17 @@ const updateWatchlistItem = async (req, res) => {
         return res.status(404).json({ error: "Watchlist item not found" });
     }
 
-    // Ensure only owner can update
     if (watchlistItem.userId !== req.user.id) {
         return res
             .status(403)
             .json({ error: "Not allowed to update this watchlist item" });
     }
 
-    // Build update data
     const updateData = {};
     if (status !== undefined) updateData.status = status.toUpperCase();
     if (rating !== undefined) updateData.rating = rating;
     if (notes !== undefined) updateData.notes = notes;
 
-    // Update watchlist item
     const updatedItem = await prisma.watchlistItem.update({
         where: { id: req.params.id },
         data: updateData,
