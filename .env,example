@@ -1,0 +1,4 @@
+DATABASE_URL="postgresql://postgres:admin123@localhost:5432/node_with_postgres"
+JWT_SECRET="supersecret123"
+PORT=5001
+NODE_ENV="development"
