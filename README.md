@@ -4,14 +4,6 @@
 
 <br />
 
-<a href="https://youtu.be/RZ6Rk_g2GLY" target="_blank">
-
-   <img width="1280" height="720" alt="Complete Backend Course | NodeJS, ExpressJS, JWT, Prisma, PostgreSQL" src="./banner.png" />
-
-</a>
-
-<br />
-
 <div>
 
 <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -29,14 +21,6 @@
 </div>
 
 <h3 align="center">Build a Complete Backend API with Authentication, Movie Management & Watchlist Features</h3>
-
-<div align="center">
-
-Follow the full video tutorial on <a href="https://youtu.be/RZ6Rk_g2GLY" target="_blank"><b>YouTube</b></a>
-
-</div>
-
-<br />
 
 </div>
 
@@ -71,8 +55,6 @@ In this comprehensive backend course, you'll learn how to build a **complete RES
 3. **Watchlist Feature** - Personal watchlist with status tracking and ratings
 
 Perfect for developers looking to master backend development, learn API design, implement authentication, work with databases using Prisma ORM, and build production-ready backend applications.
-
-🎥 **Watch the full tutorial**: [YouTube](https://youtu.be/RZ6Rk_g2GLY)
 
 ---
 
@@ -459,40 +441,3 @@ Your API will be live on a custom Railway subdomain!
 - [AWS](https://aws.amazon.com/) - Enterprise-grade cloud hosting
 
 ---
-
-## 🎓 Course & Channel
-
-### Learn More with Pedro Technologies
-
-- 🌐 **Course Website**: [www.webdevultra.com](https://www.webdevultra.com)
-
-- 📺 **YouTube Channel**: [@pedrotechnologies](https://www.youtube.com/@pedrotechnologies)
-
-Follow along for more backend tutorials, full-stack development, and practical coding projects!
-
----
-
-## 🔗 Useful Links
-
-- [Node.js Documentation](https://nodejs.org/docs)
-
-- [Express.js Documentation](https://expressjs.com/)
-
-- [Prisma Documentation](https://www.prisma.io/docs)
-
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
-
-- [JWT.io](https://jwt.io/) - JWT token decoder and debugger
-
-- [Zod Documentation](https://zod.dev/)
-
-- [Railway Deployment Guide](https://docs.railway.app/)
-
----
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
